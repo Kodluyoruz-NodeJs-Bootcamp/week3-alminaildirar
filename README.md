@@ -54,7 +54,7 @@ w4
 ### ⚙️**Installation**
 
 ```makefile
-git clone git@github.com:alminaildirar/w4.git
+git clone gh repo clone Kodluyoruz-NodeJs-Bootcamp/week3-alminaildirar
 cd w4
 npm install
 
